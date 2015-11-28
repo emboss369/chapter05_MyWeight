@@ -103,6 +103,10 @@ public class MainActivity extends AppCompatActivity {
         TextView bmiText = (TextView) findViewById(R.id.bmiText);
         bmiText.setText(String.valueOf(bmi));
 
+        float tekisei = ((h/100f)*(h/100f)) * 22.0f;
+        TextView tekiseiText = (TextView) findViewById(R.id.tekiseiText) ;
+        tekiseiText.setText(String.valueOf(tekisei));
+
     }
 
     public void onChangeWeightButtonTapped(View view) {
