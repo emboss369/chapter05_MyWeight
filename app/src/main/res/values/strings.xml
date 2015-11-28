@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyWeight</string>
+    <string name="weight_text">体重：</string>
+    <string name="minus_text">-</string>
+    <string name="plus_text">+</string>
+    <string name="date_text">日付：</string>
+    <string name="save_text">保存</string>
+    <string name="setting_text">設定</string>
+    <string name="sexuality_text">性別：</string>
+    <string name="man_text">男性</string>
+    <string name="woman_text">女性</string>
+    <string name="height_text">身長：</string>
+</resources>
